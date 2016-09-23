@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> Android_Ver</string>
+
+    <!--//项目目录-->
+    <string-array name="Project">
+        <item>逆转字符串</item>
+        <item>密码短信</item>
+    </string-array>
+
+
+</resources>
